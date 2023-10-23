@@ -1,0 +1,107 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "employees": [
+    {
+      "firstName": "ravi",
+      "lastName": "tadi",
+      "email": "ravi@gmail.com",
+      "DOB": "2017-11-06T06:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "nike",
+      "experience": 6,
+      "package": 345678,
+      "id": 4
+    },
+    {
+      "firstName": "Vamsi Krishna",
+      "lastName": "Vellanki",
+      "email": "vamsikrishna.vellanki08@gmail.com",
+      "DOB": "2023-10-19T05:00:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "mcd",
+      "experience": 4,
+      "package": 300000,
+      "id": 5
+    },
+    {
+      "firstName": "ravi",
+      "lastName": "tadi",
+      "email": "ravi@gmail.com",
+      "dob": "",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "nike",
+      "experience": 6,
+      "package": 345678,
+      "id": 6
+    },
+    {
+      "firstName": "ra",
+      "lastName": "tadi",
+      "email": "ravi@gmail.com",
+      "dob": "",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "nike",
+      "experience": 6,
+      "package": 345678,
+      "id": 7
+    },
+    {
+      "firstName": "Vamsi Krishna",
+      "lastName": "Vellanki",
+      "email": "vamsikrishna.vellanki08@gmail.com",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 8
+    },
+    {
+      "firstName": "Vamsi Krishna",
+      "lastName": "Vellanki",
+      "email": "vamsikrishna.vellanki08@gmail.com",
+      "dob": "",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "",
+      "experience": 34,
+      "package": 45678,
+      "id": 9
+    },
+    {
+      "firstName": "Vamsi Krishna",
+      "lastName": "Vellanki",
+      "email": "vamsikrishna.vellanki08@gmail.com",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 10
+    }
+  ]
+}
